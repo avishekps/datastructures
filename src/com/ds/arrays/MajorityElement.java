@@ -1,6 +1,7 @@
 package com.ds.arrays;
 /*
 https://leetcode.com/problems/majority-element/
+Solution: Moore's Voting Algorithm
  */
 public class MajorityElement {
 
