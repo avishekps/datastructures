@@ -8,3 +8,4 @@
 - Two Sum: https://leetcode.com/problems/two-sum/
 - Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
 - Pascals Triangle: https://leetcode.com/problems/pascals-triangle/solution/ 
+- Best time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
