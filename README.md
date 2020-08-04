@@ -10,4 +10,5 @@
 - Pascals Triangle: https://leetcode.com/problems/pascals-triangle/solution/ 
 - Best time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Best time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-- Array Contains Duplicate: https://leetcode.com/problems/contains-duplicate/solution/ 
+- Array Contains Duplicate: https://leetcode.com/problems/contains-duplicate/solution/
+- Missing Number: https://leetcode.com/problems/missing-number/submissions/ 
